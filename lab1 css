@@ -1,0 +1,38 @@
+#b1{width:200px;border:2px sold pink;height:50px;
+border:2px solid black;
+}
+#layer {
+   position: absolute; /* Абсолютное позиционирование */
+   clip: rect(0px, auto, auto, 0px); /* Прячем часть текста */
+   width: 200px; /* Ширина блока */
+   color: white; /* Цвет текста */
+   background: #7f4c3e; /* Цвет фона */
+   border: 1px solid black; /* Параметры рамки */
+   padding: 10px; /* Поля вокруг текста */
+  }
+ body {
+    background: #66806E url(images/clover.png) repeat-y;
+    background-position-x: 95%; /* Положение фона */
+   }
+.layer1 {
+    width: 300px; /* Ширина блока */
+    background: #fc0; /* Цвет фона */
+    padding: 7px; /* Поля вокруг текста */
+    border: 1px solid #ccc; /* Параметры рамки */
+   }
+   .layer2 {
+    width: 400px; /* Ширина текстового блока */
+   }
+.semi {
+    opacity: 0.5; /* Полупрозрачность элемента */
+   }
+ .vert {
+    -moz-orient: vertical;
+   }
+ .layer3 {
+    font: 18pt sans-serif;  
+   } 
+.vert {
+    -moz-orient: vertical;
+   }
+
