@@ -2,7 +2,7 @@
 <html>
  <head>
   <meta charset="utf-8" />
-  <title>Сайт-звіт до лабораторних робіт студента 2 курсу групи "МФ" Римбула Д.Е.</title>
+  <title>Сайт-звіт до лабораторних робіт студентки 2 курсу групи "МФ" Кузіної Ольги </title>
   <style type="text/css">
    body {
     font: 10pt Arial, Helvetica, sans-serif; /* Шрифт на веб-странице */
@@ -58,7 +58,7 @@
     
     <h2>Лабораторна робота №2 JavaScript</h2>   
     </p>
-    <p>3. <iframe src="js2.html.html" width="500" height="700"></iframe></p>
+    <p>3. <iframe src="form.html" width="500" height="700"></iframe></p>
     
   
    </div>
